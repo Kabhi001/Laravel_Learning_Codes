@@ -1,6 +1,6 @@
 **🚀 Laravel Learning Codes**
 
-This repository documents my **Laravel 11 learning journey**, where I practice concepts and upload code while learning Laravel step-by-step.
+This repository documents my **Laravel 11 learning journey**, where I practice concepts and upload code while learning **Laravel** step-by-step.
 
 It is focused on **hands-on learning**, clean examples, and consistent progress.
 
